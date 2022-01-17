@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nasimulrahman@gmail.com
+	name = Nasimul Rahman
